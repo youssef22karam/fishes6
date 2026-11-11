@@ -1,0 +1,114 @@
+[
+ {
+  "seed": "S31CVX",
+  "cell": "angler|ostraciiform",
+  "type": "rounded",
+  "pitch": 0,
+  "H": 0.269
+ },
+ {
+  "seed": "S31IZW",
+  "cell": "catfish|subcarangiform",
+  "type": "truncate",
+  "pitch": 0,
+  "H": 0.21
+ },
+ {
+  "seed": "S32JNQ",
+  "cell": "compressed|labriform",
+  "type": "emarginate",
+  "pitch": 0,
+  "H": 0.26
+ },
+ {
+  "seed": "S37T2V",
+  "cell": "flatfish|anguilliform",
+  "type": "truncate",
+  "pitch": 0,
+  "H": 0.271
+ },
+ {
+  "seed": "S33WJI",
+  "cell": "labrid|labriform",
+  "type": "truncate",
+  "pitch": 0,
+  "H": 0.236
+ },
+ {
+  "seed": "S39UEJ",
+  "cell": "longjaw|carangiform",
+  "type": "forked",
+  "pitch": 0,
+  "H": 0.201
+ },
+ {
+  "seed": "S316RY",
+  "cell": "longjaw|subcarangiform",
+  "type": "forked",
+  "pitch": 0,
+  "H": 0.151
+ },
+ {
+  "seed": "S3644",
+  "cell": "pelagic|carangiform",
+  "type": "forked",
+  "pitch": 0,
+  "H": 0.271
+ },
+ {
+  "seed": "S35",
+  "cell": "pelagic|thunniform",
+  "type": "lunate",
+  "pitch": 0,
+  "H": 0.251
+ },
+ {
+  "seed": "S363Z5",
+  "cell": "pipe|anguilliform",
+  "type": "rounded",
+  "pitch": 0,
+  "H": 0.063
+ },
+ {
+  "seed": "S3OG1",
+  "cell": "rayfin|carangiform",
+  "type": "forked",
+  "pitch": 0,
+  "H": 0.241
+ },
+ {
+  "seed": "S385AT",
+  "cell": "rayfin|subcarangiform",
+  "type": "truncate",
+  "pitch": 1.33,
+  "H": 0.169
+ },
+ {
+  "seed": "S3IC2",
+  "cell": "ribbon|anguilliform",
+  "type": "diphycercal",
+  "pitch": 0,
+  "H": 0.067
+ },
+ {
+  "seed": "S342NH",
+  "cell": "rigid|ostraciiform",
+  "type": "truncate",
+  "pitch": 0,
+  "H": 0.252
+ },
+ {
+  "seed": "S3C83",
+  "cell": "shark|subcarangiform",
+  "type": "heterocercal",
+  "pitch": 1.47,
+  "H": 0.238
+ },
+ {
+  "seed": "S31V7U",
+  "cell": "shark|thunniform",
+  "type": "heterocercal",
+  "pitch": 0.91,
+  "H": 0.258
+ }
+]

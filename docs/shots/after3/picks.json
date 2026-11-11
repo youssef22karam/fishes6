@@ -1,0 +1,381 @@
+{
+ "side": [
+  {
+   "seed": "S31CVX",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "angler|ostraciiform"
+  },
+  {
+   "seed": "S31IZW",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "catfish|subcarangiform"
+  },
+  {
+   "seed": "S32JNQ",
+   "type": "emarginate",
+   "fam": "homocercal",
+   "cell": "compressed|labriform"
+  },
+  {
+   "seed": "S37T2V",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "flatfish|anguilliform"
+  },
+  {
+   "seed": "S33WJI",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "labrid|labriform"
+  },
+  {
+   "seed": "S39UEJ",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "longjaw|carangiform"
+  },
+  {
+   "seed": "S316RY",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "longjaw|subcarangiform"
+  },
+  {
+   "seed": "S3644",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "pelagic|carangiform"
+  },
+  {
+   "seed": "S35",
+   "type": "lunate",
+   "fam": "homocercal",
+   "cell": "pelagic|thunniform"
+  },
+  {
+   "seed": "S363Z5",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "pipe|anguilliform"
+  },
+  {
+   "seed": "S3OG1",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "rayfin|carangiform"
+  },
+  {
+   "seed": "S385AT",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "rayfin|subcarangiform"
+  },
+  {
+   "seed": "S3IC2",
+   "type": "diphycercal",
+   "fam": "homocercal",
+   "cell": "ribbon|anguilliform"
+  },
+  {
+   "seed": "S342NH",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "rigid|ostraciiform"
+  },
+  {
+   "seed": "S3C83",
+   "type": "heterocercal",
+   "fam": "heterocercal",
+   "cell": "shark|subcarangiform"
+  },
+  {
+   "seed": "S31V7U",
+   "type": "heterocercal",
+   "fam": "heterocercal",
+   "cell": "shark|thunniform"
+  }
+ ],
+ "hetero": [
+  {
+   "seed": "S35JRVG",
+   "r": 1.101845202151032
+  },
+  {
+   "seed": "S320TC8",
+   "r": 1.3813456019763188
+  },
+  {
+   "seed": "S36RQG9",
+   "r": 2.0065192046927796
+  }
+ ],
+ "grid": [
+  {
+   "seed": "S31CVX",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "angler|ostraciiform"
+  },
+  {
+   "seed": "S31IZW",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "catfish|subcarangiform"
+  },
+  {
+   "seed": "S3AOYE",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "catfish|subcarangiform"
+  },
+  {
+   "seed": "S32JNQ",
+   "type": "emarginate",
+   "fam": "homocercal",
+   "cell": "compressed|labriform"
+  },
+  {
+   "seed": "S331ZN",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "compressed|labriform"
+  },
+  {
+   "seed": "S34EVF",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "compressed|labriform"
+  },
+  {
+   "seed": "S37T2V",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "flatfish|anguilliform"
+  },
+  {
+   "seed": "S3A6MH",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "flatfish|anguilliform"
+  },
+  {
+   "seed": "S33WJI",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "labrid|labriform"
+  },
+  {
+   "seed": "S36G73",
+   "type": "emarginate",
+   "fam": "homocercal",
+   "cell": "labrid|labriform"
+  },
+  {
+   "seed": "S374MZ",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "labrid|labriform"
+  },
+  {
+   "seed": "S39UEJ",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "longjaw|carangiform"
+  },
+  {
+   "seed": "S316RY",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "longjaw|subcarangiform"
+  },
+  {
+   "seed": "S31P3V",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "longjaw|subcarangiform"
+  },
+  {
+   "seed": "S3644",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "pelagic|carangiform"
+  },
+  {
+   "seed": "S327FS",
+   "type": "lunate",
+   "fam": "homocercal",
+   "cell": "pelagic|carangiform"
+  },
+  {
+   "seed": "S35",
+   "type": "lunate",
+   "fam": "homocercal",
+   "cell": "pelagic|thunniform"
+  },
+  {
+   "seed": "S363Z5",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "pipe|anguilliform"
+  },
+  {
+   "seed": "S3OG1",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "rayfin|carangiform"
+  },
+  {
+   "seed": "S385AT",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "rayfin|subcarangiform"
+  },
+  {
+   "seed": "S3FYDJ",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "rayfin|subcarangiform"
+  },
+  {
+   "seed": "S3IC2",
+   "type": "diphycercal",
+   "fam": "homocercal",
+   "cell": "ribbon|anguilliform"
+  },
+  {
+   "seed": "S342NH",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "rigid|ostraciiform"
+  },
+  {
+   "seed": "S39C2M",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "rigid|ostraciiform"
+  },
+  {
+   "seed": "S3C83",
+   "type": "heterocercal",
+   "fam": "heterocercal",
+   "cell": "shark|subcarangiform"
+  },
+  {
+   "seed": "S31V7U",
+   "type": "heterocercal",
+   "fam": "heterocercal",
+   "cell": "shark|thunniform"
+  },
+  {
+   "seed": "S34KZE",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "spiny|carangiform"
+  },
+  {
+   "seed": "S395YN",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "spiny|subcarangiform"
+  },
+  {
+   "seed": "S31EQZU",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "spiny|subcarangiform"
+  },
+  {
+   "seed": "S3ZAYD",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "angler|ostraciiform"
+  },
+  {
+   "seed": "S3WL6T",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "catfish|subcarangiform"
+  },
+  {
+   "seed": "S3CQA2",
+   "type": "emarginate",
+   "fam": "homocercal",
+   "cell": "compressed|labriform"
+  },
+  {
+   "seed": "S3VQMY",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "flatfish|anguilliform"
+  },
+  {
+   "seed": "S3UPZ4",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "labrid|labriform"
+  },
+  {
+   "seed": "S3137HQ",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "longjaw|carangiform"
+  },
+  {
+   "seed": "S3SIJH",
+   "type": "truncate",
+   "fam": "homocercal",
+   "cell": "longjaw|subcarangiform"
+  },
+  {
+   "seed": "S3QTFR",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "pelagic|carangiform"
+  },
+  {
+   "seed": "S3M8GI",
+   "type": "lunate",
+   "fam": "homocercal",
+   "cell": "pelagic|thunniform"
+  },
+  {
+   "seed": "S3273F7",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "pipe|anguilliform"
+  },
+  {
+   "seed": "S3AV2D",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "rayfin|carangiform"
+  },
+  {
+   "seed": "S31O32B",
+   "type": "forked",
+   "fam": "homocercal",
+   "cell": "rayfin|subcarangiform"
+  },
+  {
+   "seed": "S3ERLQ",
+   "type": "diphycercal",
+   "fam": "homocercal",
+   "cell": "ribbon|anguilliform"
+  },
+  {
+   "seed": "S3LQ4L",
+   "type": "rounded",
+   "fam": "homocercal",
+   "cell": "rigid|ostraciiform"
+  },
+  {
+   "seed": "S3K10V",
+   "type": "heterocercal",
+   "fam": "heterocercal",
+   "cell": "shark|subcarangiform"
+  }
+ ],
+ "cells": 18
+}
