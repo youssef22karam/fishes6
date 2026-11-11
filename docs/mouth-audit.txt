@@ -1,0 +1,15 @@
+LIVING-MOUTH AUDIT — 700 seeds, 11 gapes each (closed → maximum)
+  class                         n   max gape°  lipK  teeth  ajar@rest  teeth shown  max stretch jump
+  pursuit predator             164      24.6   0.18    87      164         164        0.0014
+  generalist                   150      14.6   0.38    71        0           0        0.0011
+  picker                       107      13.4   0.56    46        0           0        0.0012
+  pursuit predator (ventral)    75      26.0   0.12    28       75          75        0.0010
+  ambush predator               63      25.6   0.12   218       63          63        0.0020
+  bottom feeder                 50      14.6   0.75    37        0           0        0.0004
+  tube                          37       0.0   0.50     0        0           0        0.0000
+  fused                         34       0.0   0.90     0        0           0        0.0000
+  ventral                       16       0.0   0.75     0        0           0        0.0000
+  filter                         4      22.0   0.20   102        0           0        0.0009
+  violations: 0
+  RESULT: PASS
+  (corner-vs-eye rule not applicable on 9 fish whose eyes are not on the flank: expanded-head and side-flattened plans, same exemption as validate.js)

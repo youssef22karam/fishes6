@@ -1,0 +1,63 @@
+{
+ "built": 1000,
+ "noTailFish": 48,
+ "families": {
+  "heterocercal": 70,
+  "homocercal": 882
+ },
+ "heterocercal": 70,
+ "pitchDeg": {
+  "median": "0.000",
+  "p98": "1.801",
+  "max": "3.103"
+ },
+ "lobeRatio": {
+  "n": 70,
+  "median": "1.398",
+  "p98": "1.992",
+  "max": "2.103",
+  "over2": 1,
+  "bulk_1_1_to_1_6": "0.971"
+ },
+ "spineDeg": {
+  "min": "10.115",
+  "max": "29.263"
+ },
+ "caudalHeightOverL": {
+  "median": "0.245",
+  "p98": "0.271",
+  "max": "0.271"
+ },
+ "caudalAreaOverL2": {
+  "median": "0.022",
+  "max": "0.061"
+ },
+ "dorsalHeightOverL": {
+  "median": "0.087",
+  "p98": "0.300",
+  "max": "0.300"
+ },
+ "analHeightOverL": {
+  "median": "0.062",
+  "max": "0.300"
+ },
+ "pelvicOverSide": {
+  "median": "0.384",
+  "max": "0.740"
+ },
+ "eyeRimOverDiameter": {
+  "eyes": 1970,
+  "median": "0.055",
+  "p99": "0.083",
+  "max": "0.207",
+  "over006": 36
+ },
+ "diversity": {
+  "planSwimCells": 18,
+  "distinctOutlines": "867/952",
+  "minCellPrototypeDistance": "0.005"
+ },
+ "axisGatesOK": true
+}
+violations: 0 []
+TAILTEST PASS

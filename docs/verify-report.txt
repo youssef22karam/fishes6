@@ -1,0 +1,48 @@
+══════════════════════════════════════════════════════════════════════════════
+ ICHTHYOGEN PROCEDURAL GENOME — VERIFICATION REPORT
+══════════════════════════════════════════════════════════════════════════════
+
+[0] TRAIT-SPACE ARITHMETIC
+  continuous axes: 59  (each counted at only 8 perceptibly distinct levels)
+  discrete axes:   20  option universe: profile×10 cross×5 mouth×5 teeth×7 special×3 dN×3 dShape×8 d2Shape×4 aShape×4 pShape×3 pelPos×2 pelShape×1 cType×7 caudal×2 pelvic×2 anal×2 scale×6 pattern×8 palette×17 eyeSide×2
+  full axis product            = 8^59 × Π(discrete) = 10^65.3
+  inside clade envelopes only  = Σ over 41 lineages of Π(envelope levels) = 10^34.4
+  smallest lineage envelope    = 10^28.9  (hammerhead)
+  requirement ≥ 10^9           → PASS  (10,000 fish = 10^4, a 10^30-fold undersample)
+
+[1] UNIQUENESS — 10000 seeds
+  generated 10000 (failed to resolve: 0) in 82.0 s  (8.20 ms/genome incl. gate)
+  distinct genome hashes: 10000/10000   distinct seeds: 10000   mean gate attempts/seed: 1.11
+  trait-distance on 1000 fish (499500 pairs): min=0.0565 mean=0.293  pairs under 0.02: 0
+  nearest-neighbour distance: min=0.057 p10=0.081 median=0.099
+  clade mix: perch 13.8%, reef 12.2%, soft 11.2%, shark 8.4%, tuna 7.5%, eel 5.7%, cat 5.6%, deep 4.8%, box 4.5%, flat 4.3%, pike 4.1%, pipe 3.9%, cod 3.6%, angler 3.0%, scorp 2.9%, ray 2.7%, ancient 1.8%
+  determinism (same seed → same fish): 60/60
+  UNIQUENESS RESULT: PASS
+
+[2] COHERENCE — 1000 generated fish across 17 clades (gate re-run on the stored genome + mesh audit)
+  clade coverage: perch:95 reef:82 shark:72 tuna:60 pike:46 eel:59 flat:51 pipe:46 cat:55 box:54 angler:42 deep:57 cod:57 soft:87 ray:48 ancient:44 scorp:45
+  invariant                                  passed
+  symmetry — bilateral symmetry (flatfish: real asymmetry only) 1000/1000
+  eyes — 2 eyes, on head, embedded, 3–15% of head              1000/1000
+  appendages — every appendage attached on the body            1000/1000
+  fins — standard fin set, stations, sizes                     1000/1000
+  mouth_gills — one mouth+jaw, teeth inside, gills behind head 1000/1000
+  profile — smooth profile, no kinks/twist/self-intersect      1000/1000
+  colour — natural colour, photophores deep-sea only           1000/1000
+  envelope — every axis inside its clade envelope              1000/1000
+  tail — tail family by plan, outline/aspect/peduncle/keel by swim axis, lobe ratio bounds 1000/1000
+  plan — flattened plan: eyes+spiracles top, mouth+5 gill pairs bottom, slender tail 1000/1000
+  mesh audit (symmetry, fin roots on skin, tri budget, 0 unrepaired rules)   1000/1000
+  mutate ×250: stays in envelope & valid 250/250    breed ×250: clamped & valid 250/250
+  mesh build @ gallery quality ('med'): median 31.1 ms  p95 52.6 ms  max 118.4 ms
+  gate: 11620 accepted / 1127 rejected genomes during this run
+  top rejection reasons (these were resampled, never rendered):
+    1086× mouth_gills: detached / floating tooth
+    28× fins: anal area # below the anguilliform envelope
+    7× envelope: eyeU=# outside [#,#]
+    4× fins: anal area # below the ostraciiform envelope
+    2× fins: anal area # below the subcarangiform envelope
+  COHERENCE RESULT: 1000/1000  PASS
+══════════════════════════════════════════════════════════════════════════════
+ OVERALL: PASS
+══════════════════════════════════════════════════════════════════════════════
