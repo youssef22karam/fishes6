@@ -1,0 +1,42 @@
+{
+ "label": "after",
+ "std": {
+  "n": 300,
+  "byClass": {
+   "EYE_OUTSIDE_HEAD": 0,
+   "EYE_SLICED": 0,
+   "DETACHED_TEETH": 0,
+   "FLAT_BODY_END": 0,
+   "MOUTH_CORNER_OPEN": 0
+  },
+  "fishWith": 0,
+  "examples": []
+ },
+ "wonRaw": {
+  "n": 300,
+  "unviable": 0,
+  "byClass": {
+   "EYE_OUTSIDE_HEAD": 0,
+   "EYE_SLICED": 0,
+   "DETACHED_TEETH": 0,
+   "FLAT_BODY_END": 1,
+   "MOUTH_CORNER_OPEN": 0
+  },
+  "fishWith": 1,
+  "examples": [
+   "Brook marlin-flounder FLAT_BODY_END: rear cross-section drops 51% of the peduncle in one step (flat cut)"
+  ]
+ },
+ "wonShipped": {
+  "n": 289,
+  "byClass": {
+   "EYE_OUTSIDE_HEAD": 0,
+   "EYE_SLICED": 0,
+   "DETACHED_TEETH": 0,
+   "FLAT_BODY_END": 0,
+   "MOUTH_CORNER_OPEN": 0
+  },
+  "fishWith": 0,
+  "examples": []
+ }
+}
